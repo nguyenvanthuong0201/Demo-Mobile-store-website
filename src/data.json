@@ -1,0 +1,63 @@
+[
+  {
+    "maSP": "SP001",
+    "img": "images/phone1.png",
+    "tenSP": "Samsung Galaxy 10",
+    "mangHinh": "6.8 inches, 114.0 cm2 (~91.0% screen-to-body ratio)",
+    "heDH": "Android 9.0 (Pie); One UI",
+    "ram": "12GB",
+    "rom": "256GB",
+    "giaTien": "14.000.000",
+    "giaTienSo": 14000000,
+    "phuKien": "Hộp sách, sạc, cáp USB, tai nghe, cây lấy sim",
+    "baoHanh": "2 tháng tại Dsoft",
+    "nangCap":"Không có dịch vụ",
+    "khuVuc":"Phòng 12, Nhà 8, Khu Công viên Phần Mềm Quang Trung, Quận 12, TP. HCM"
+  },
+  {
+    "maSP": "SP002",
+    "img": "images/phone2.png",
+    "tenSP": "Oppo Reno 4",
+    "mangHinh": "6.8 inches, 114.0 cm2 ",
+    "heDH": "Android 9.0 (Pie); One UI",
+    "ram": "16GB",
+    "rom": "128GB",
+    "giaTien": "9.000.000",
+    "giaTienSo": 9000000,
+    "phuKien": " sạc, cáp USB, tai nghe,",
+    "baoHanh": "18 tháng tại Dsoft",
+    "nangCap":" Nâng cấp bảo hành 01 đổi 01 và thêm tiền",
+    "khuVuc":"Phòng 12, Nhà 8, Khu Công viên Phần Mềm Quang Trung, Quận 12, TP. HCM"
+  },
+  {
+    "maSP": "SP003",
+    "img": "images/phone3.png",
+    "tenSP": "Samsung Galaxy",
+    "mangHinh": "6.8 inch, 114.0 cm2 (1440 x 3040 pixels)",
+    "heDH": "Android 9.0 (Pie); One UI",
+    "ram": "12GB",
+    "rom": "128GB",
+    "giaTien": "12.000.000",
+    "giaTienSo": 12000000,
+    "phuKien": " tai nghe, cây lấy sim",
+    "baoHanh": "6 tháng tại Dsoft",
+    "nangCap":" Nâng cấp bảo hành 01 đổi 01 và thêm tiền",
+    "khuVuc":"Phòng 12, Nhà 8, Khu Công viên Phần Mềm Quang Trung, Quận 12, TP. HCM"
+  },
+  {
+    "maSP": "SP004",
+    "img": "images/phone4.png",
+    "tenSP": "Iphone 11",
+    "mangHinh": " 6.1 Liquid Retina",
+    "heDH": "Android 9.0 (Pie); One UI",
+    "ram": "16GB",
+    "rom": "256GB",
+    "giaTien": "27.000.000",
+    "giaTienSo": 27000000,
+    "phuKien": "Hộp sách, sạc, cây lấy sim",
+    "baoHanh": "1 tháng tại Dsoft",
+    "nangCap":" Nâng cấp bảo hành 01 đổi 01 ",
+    "khuVuc":"Phòng 12, Nhà 8, Khu Công viên Phần Mềm Quang Trung, Quận 12, TP. HCM"
+    
+  }
+]
